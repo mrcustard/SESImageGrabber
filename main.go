@@ -4,6 +4,7 @@ package main
 
 
 import (
+	"github.com/mrcustard/SESImageGrabber/commands"
 	log "github.com/sirupsen/logrus"
 )
 
